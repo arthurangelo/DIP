@@ -3,7 +3,7 @@ public class Fatura {
 
 	public double getValorMensal() {
 		// TODO Auto-generated method stub
-		return 10;
+		return 10d;
 	}
 
 }
