@@ -35,9 +35,6 @@ public class GeradorNotaFiscal {
 			acao.executa(nf);
 		}
 
-		// email.enviarEmail(nf);
-		// dao.persiste(nf);
-		//
 		return nf;
 
 	}
